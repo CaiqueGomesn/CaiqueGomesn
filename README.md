@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Caique%20Gomes&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=🚀%20Potencializando%20Estudos%20e%20Carreira%20com%20IA&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="./banner.png" width="100%" alt="Caique Gomes - Potencializando Estudos e Carreira com IA"/>
 
 <br/>
 

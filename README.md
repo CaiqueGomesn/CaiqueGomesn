@@ -47,6 +47,7 @@ const caique = {
     location: "Rio de Janeiro, Brasil ­ƒçº­ƒçÀ",
     focus: "Transição para tech | Logística + Engenharia de Software",
     remote: "Aberto a oportunidades remotas",
+    remote: "Aberto a oportunidades remotas",
     learning: ["Python", "Machine Learning", "Prompt Engineering"],
     contact: {
         telegram: "@caiquegomesCG",

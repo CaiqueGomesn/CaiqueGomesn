@@ -1,4 +1,4 @@
-﻿﻿﻿<div align="center">
+﻿﻿﻿﻿<div align="center">
 
 <!-- Banner -->
 <img src="./banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brasil"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Kwai-0f1923?style=for-the-badge&logo=kwai&logoColor=D4872A" alt="Kwai"/>
 </a>
 &nbsp;
-<a href="https://youtube.com/@falacomseupaiiki/si=PfN17JO_j5XulMuv" target="_blank">
+<a href="https://youtube.com/@falacomseupaiiki?si=PfN17JO_j5XulMuv" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-0f1923?style=for-the-badge&logo=youtube&logoColor=D4872A" alt="YouTube"/>
 </a>
 
@@ -105,7 +105,7 @@ const caique = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
-  <source media="( prefers-color-scheme: light)" srcset="https://raw.githubcusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
 </picture>
 
@@ -122,6 +122,7 @@ const caique = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:1a2835,100:D4872A&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 

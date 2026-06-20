@@ -1,4 +1,4 @@
-﻿<div align="center">
+﻿﻿<div align="center">
 
 <!-- Banner -->
 <img src="./banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brasil"/>
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### ­ƒîÉ Connect with me
+### 🌐 Connect with me
 
 <a href="https://t.me/caiquegomesCG" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0f1923?style=for-the-badge&logo=telegram&logoColor=D4872A" alt="Telegram"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Kwai-0f1923?style=for-the-badge&logo=kwai&logoColor=D4872A" alt="Kwai"/>
 </a>
 &nbsp;
-<a href="https://youtube.com/@falacomseupaiiki?si=PfN17JO_j5XulMuv" target="_blank">
+<a href="https://youtube.com/@falacomseupaiiki/si=PfN17JO_j5XulMuv" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-0f1923?style=for-the-badge&logo=youtube&logoColor=D4872A" alt="YouTube"/>
 </a>
 
@@ -38,22 +38,21 @@
 
 <div align="center">
 
-### ÔÜí About me
+### ⚡ About me
 
 </div>
 
 ```js
 const caique = {
-    location: "Rio de Janeiro, Brasil ­ƒçº­ƒçÀ",
+    location: "Rio de Janeiro, Brasil 🇧🇷",
     focus: "Transição para tech | Logística + Engenharia de Software",
-    remote: "Aberto a oportunidades remotas",
     remote: "Aberto a oportunidades remotas",
     learning: ["Python", "Machine Learning", "Prompt Engineering"],
     contact: {
         telegram: "@caiquegomesCG",
         discord: "caique.2026"
     },
-    funFact: "A IA ├® a ferramenta, mas o conhecimento ├® o poder ­ƒºá"
+    funFact: "A IA é a ferramenta, mas o conhecimento é o poder 🧠"
 };
 ```
 
@@ -61,7 +60,7 @@ const caique = {
 
 <div align="center">
 
-### ­ƒøá´©Å Tech Stack
+### 🛠️ Tech Stack
 
 <br/>
 
@@ -80,7 +79,7 @@ const caique = {
 
 <div align="center">
 
-### ­ƒôè GitHub Analytics
+### 📊 GitHub Analytics
 
 <br/>
 
@@ -102,11 +101,11 @@ const caique = {
 
 <div align="center">
 
-### ­ƒÉì Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake.svg" />
+  <source media="( prefers-color-scheme: light)" srcset="https://raw.githubcusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
 </picture>
 
@@ -116,10 +115,13 @@ const caique = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CaiqueGomesn&color=D4872A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=CaiqueGomesn&color=D4872Astyle=for-the-badge-label=PROFILE+VIEWSA" alt="Profile Views"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:1a2835,100:D4872A&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+

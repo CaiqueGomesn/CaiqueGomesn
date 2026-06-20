@@ -1,4 +1,4 @@
-﻿﻿<div align="center">
+﻿﻿﻿<div align="center">
 
 <!-- Banner -->
 <img src="./banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brasil"/>
@@ -115,13 +115,15 @@ const caique = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CaiqueGomesn&color=D4872Astyle=for-the-badge-label=PROFILE+VIEWSA" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=CaiqueGomesn&label=Profile+Views&color=D4872A&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:1a2835,100:D4872A&height=100&section=footer" width="100%"/>
 
 </div>
+
+
 
 
 

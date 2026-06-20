@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Banner -->
 <img src="./banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brasil"/>
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🌐 Connect with me
+### ­ƒîÉ Connect with me
 
 <a href="https://t.me/caiquegomesCG" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0f1923?style=for-the-badge&logo=telegram&logoColor=D4872A" alt="Telegram"/>
@@ -38,20 +38,20 @@
 
 <div align="center">
 
-### ⚡ About me
+### ÔÜí About me
 
 </div>
 
 ```js
 const caique = {
-    location: "Rio de Janeiro, Brasil 🇧🇷",
-    focus: "Potencializando Estudos e Carreira com IA",
+    location: "Rio de Janeiro, Brasil ­ƒçº­ƒçÀ",
+    focus: "📍 Rio de Janeiro, Brasil — aberto a oportunidades remotas",
     learning: ["Python", "Machine Learning", "Prompt Engineering"],
     contact: {
         telegram: "@caiquegomesCG",
         discord: "caique.2026"
     },
-    funFact: "A IA é a ferramenta, mas o conhecimento é o poder 🧠"
+    funFact: "A IA ├® a ferramenta, mas o conhecimento ├® o poder ­ƒºá"
 };
 ```
 
@@ -59,7 +59,7 @@ const caique = {
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### ­ƒøá´©Å Tech Stack
 
 <br/>
 
@@ -78,7 +78,7 @@ const caique = {
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### ­ƒôè GitHub Analytics
 
 <br/>
 
@@ -100,7 +100,7 @@ const caique = {
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### ­ƒÉì Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />

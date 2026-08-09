@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4872A&center=true&vCenter=true&random=false&width=520&lines=Potencializando+Estudos+com+IA+%F0%9F%9A%80;Desenvolvedor+%7C+Creator+%7C+Tech+Enthusiast;Rio+de+Janeiro%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4872A&center=true&vCenter=true&random=false&width=520&lines=Potencializando+Estudos+com+IA+%F0%9F%9A%80;Log%C3%ADstica+%2B+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Rio+de+Janeiro%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
 
 </div>
 
@@ -44,10 +44,11 @@
 
 ```js
 const caique = {
+    role: "Assistente de Operações Logísticas (6+ anos: DHL, Amazon, Mercado Livre)",
     location: "Rio de Janeiro, Brasil 🇧🇷",
-    focus: "Transição para tech | Logística + Engenharia de Software",
+    focus: "Logística + camada analítica (Ciência da Computação)",
     remote: "Aberto a oportunidades remotas",
-    learning: ["Python", "Machine Learning", "Prompt Engineering"],
+    learning: ["Python", "Excel Avançado / Power Query", "Prompt Engineering"],
     contact: {
         telegram: "@caiquegomesCG",
         discord: "caique.2026"
@@ -105,23 +106,7 @@ const caique = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=CaiqueGomesn&label=Profile+Views&color=D4872A&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:1a2835,100:D4872A&height=100&section=footer" width="100%"/>
-
-</div>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.co
 
 
 

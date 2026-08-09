@@ -64,6 +64,4 @@
     <text class="subtitle" x="0" y="45">Large-Scale Logistics Operations | Computer Science</text>
     <text class="desc" x="0" y="75">Bridging Software Engineering with operational excellence (DHL, Amazon, Mercado Livre)</text>
   </g>
-</svg>
-
-"fix: encoding do banner"
+</svg> "fix: encoding do banner"

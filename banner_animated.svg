@@ -49,20 +49,4 @@
       }
       @keyframes float {
         0%, 100% { transform: translateY(0px) scale(1); }
-        50% { transform: translateY(-15px) scale(1.05); }
-      }
-    </style>
-  </defs>
-
-  <rect width="800" height="220" fill="url(#bg)" rx="10" />
-  
-  <!-- Decorative Elements -->
-  <circle cx="700" cy="50" r="140" fill="#D4872A" opacity="0.06" class="circle" />
-  <circle cx="100" cy="180" r="90" fill="#ffffff" opacity="0.02" class="circle-2" />
-  
-  <g transform="translate(50, 90)">
-    <text class="title" x="0" y="0">Caique Gomes</text>
-    <text class="subtitle" x="0" y="45">Ciência da Computação ✦ Operações Logísticas de Alta Escala</text>
-    <text class="desc" x="0" y="75">Unindo Engenharia de Software à excelência operacional (DHL, Amazon, Mercado Livre)</text>
-  </g>
-</svg>
+        50% { transform:

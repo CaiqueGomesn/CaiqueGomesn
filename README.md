@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="./banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brazil"/>
+<img src="https://raw.githubusercontent.com/CaiqueGomesn/CaiqueGomesn/main/banner_animated.svg" width="100%" alt="Caique Gomes - Rio de Janeiro, Brazil"/>
 
 <br/>
 

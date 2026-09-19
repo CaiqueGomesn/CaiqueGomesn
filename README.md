@@ -11,7 +11,7 @@ Atuo há mais de 6 anos em operações de centros de distribuição de grande po
 
 Estou cursando Ciência da Computação para somar uma camada analítica à operação que já domino — foco atual em **Python** e **Excel avançado** (Power Query, PROCX, SOMASE, Tabelas Dinâmicas), aplicados a problemas reais de logística e dados operacionais.
 
-Busco estágio em [Análise de Dados / BI] para transformar essa base operacional sólida em solução técnica.
+Busco estágio em Análise de Dados / BI para transformar essa base operacional sólida em solução técnica.
 
 ---
 

@@ -1,6 +1,6 @@
 # Caique Gomes
 
-💼 Assistente de Operações Logísticas (6+ anos: DHL, Amazon, Mercado Livre) | 🎓 Estudante de Ciência da Computação
+💼 Auxiliar de Operações Logísticas (6+ anos: DHL, Amazon, Mercado Livre) | 🎓 Estudante de Ciência da Computação
 📍 Rio de Janeiro, Brasil
 
 ---

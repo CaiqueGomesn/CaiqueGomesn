@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Profissional com mais de 1 milhão de pacotes expedidos ao longo de 6+ anos de atuação em chão de CD nas áreas de Indústria, Varejo e Logística. Experiência prática em operações, processos e produtividade, com foco em evolução rumo à análise de dados e desenvolvimento. | Rio de Janeiro | 💻
+Profissional com experiência em operações logísticas e interesse em desenvolvimento, automação e análise de dados. Combinando conhecimento prático em logística com estudos em Ciência da Computação.
 
 ---
 

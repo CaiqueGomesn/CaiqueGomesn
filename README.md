@@ -2,8 +2,7 @@
 
 <div align="left">
   <p>
-    💻 Logistics Operations Assistant (6+ years: DHL, Amazon, Mercado Livre) | 🎓 CS Student<br>
-    Automation and data applied to operations | Rio de Janeiro 🇧🇷
+    💻 Logistics Operations | 🎓 CS Student<br>
   </p>
 </div>
 

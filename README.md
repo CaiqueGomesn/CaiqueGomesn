@@ -2,8 +2,8 @@
 
 <div align="left">
   <p>
-    💼 Auxiliar de Operações Logísticas (6+ anos) | 🎓 Estudante de Ciência da Computação<br>
-    📍 Rio de Janeiro, Brasil
+    💻 Logistics Operations Assistant (6+ years: DHL, Amazon, Mercado Livre) | 🎓 CS Student<br>
+    Automation and data applied to operations | Rio de Janeiro 🇧🇷
   </p>
 </div>
 
@@ -11,16 +11,29 @@
 
 ## Sobre
 
-Profissional com experiência em operações logísticas e interesse em desenvolvimento, automação e análise de dados. Combinando conhecimento prático em logística com estudos em Ciência da Computação.
+Mais de 1 milhão de pacotes expedidos ao longo de 6+ anos de atuação em chão de CD — Indústria, Varejo e Logística. Experiência prática em processos, produtividade e operação. Rumo à análise de dados e desenvolvimento.
 
 ---
 
 ## Stack
 
-<strong>Linguagens:</strong> Python, JavaScript, HTML5, CSS3<br>
-<strong>Ferramentas:</strong> Git, GitHub, VS Code<br>
-<strong>Em desenvolvimento:</strong> lógica de programação aplicada a dados e automação<br>
-<strong>Sistemas:</strong> WMS, QMS, TMS, YMS, SAP
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Ferramentas & Tecnologias
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+### Sistemas Operacionais
+![WMS](https://img.shields.io/badge/WMS-4A90E2?logoColor=white)
+![QMS](https://img.shields.io/badge/QMS-4A90E2?logoColor=white)
+![TMS](https://img.shields.io/badge/TMS-4A90E2?logoColor=white)
+![YMS](https://img.shields.io/badge/YMS-4A90E2?logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAADC?logo=sap&logoColor=white)
 
 ---
 

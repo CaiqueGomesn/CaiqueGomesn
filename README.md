@@ -19,7 +19,7 @@ Profissional com experiência em operações logísticas e interesse em desenvol
 
 <strong>Linguagens:</strong> Python, JavaScript, HTML5, CSS3<br>
 <strong>Ferramentas:</strong> Git, GitHub, VS Code<br>
-<strong>Aprimorando:</strong> Excel avançado, lógica de programação aplicada a dados<br>
+<strong>Em desenvolvimento:</strong> lógica de programação aplicada a dados e automação<br>
 <strong>Sistemas:</strong> WMS, QMS, TMS, YMS, SAP
 
 ---
@@ -39,5 +39,8 @@ Profissional com experiência em operações logísticas e interesse em desenvol
   </a>
   <a href="https://www.linkedin.com/in/caiquegomes/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Caique%20Gomes-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:caique2008gomes@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-caique2008gomes%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>

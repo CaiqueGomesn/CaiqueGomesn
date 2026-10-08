@@ -2,7 +2,7 @@
 
 <div align="left">
   <p>
-     Logistics Operations 💻 | 🎓 CS Student<br>
+     Logistics Operations  💻 | 🎓 CS Student<br>
   </p>
 </div>
 
